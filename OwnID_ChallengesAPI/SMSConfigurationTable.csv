@@ -1,0 +1,4 @@
+AppId,SMSServerURL,Username,Password,FromNumber
+1,sms.example.com,smsuser1,password1,+1234567890
+2,sms.server.com,smsuser2,password2,+0987654321
+3,sms.another.com,smsuser3,password3,+1122334455

@@ -1,0 +1,4 @@
+AppId,SMTPServerURL,Username,Password,FromAddress,Subject
+1,smtp.example.com,user1@example.com,password1,no-reply@example.com,Welcome to Our Service
+2,smtp.mailserver.com,user2@mailserver.com,password2,no-reply@mailserver.com,Your Account Information
+3,smtp.anothermail.com,user3@anothermail.com,password3,no-reply@anothermail.com,Important Notification

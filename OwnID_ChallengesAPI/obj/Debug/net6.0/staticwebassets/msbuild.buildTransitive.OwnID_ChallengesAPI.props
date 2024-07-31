@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OwnID_ChallengesAPI.props" />
+</Project>
